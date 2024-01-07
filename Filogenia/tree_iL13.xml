@@ -1,0 +1,15 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner</name>
+      <clade>
+        <name>tr|Q4VB51|Q4VB51_HUMAN</name>
+        <branch_length>0.2226027397260274</branch_length>
+      </clade>
+      <clade>
+        <name>sp|P35225|IL13_HUMAN</name>
+        <branch_length>0.2226027397260274</branch_length>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

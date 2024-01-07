@@ -1,0 +1,1956 @@
+LOCUS       NC_000001              32741 bp    DNA     linear   CON 07-OCT-2023
+DEFINITION  Homo sapiens chromosome 1, GRCh38.p14 Primary Assembly.
+ACCESSION   NC_000001 REGION: 247416077..247448817
+VERSION     NC_000001.11
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.40
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 32741)
+  AUTHORS   Gregory,S.G., Barlow,K.F., McLay,K.E., Kaul,R., Swarbreck,D.,
+            Dunham,A., Scott,C.E., Howe,K.L., Woodfine,K., Spencer,C.C.,
+            Jones,M.C., Gillson,C., Searle,S., Zhou,Y., Kokocinski,F.,
+            McDonald,L., Evans,R., Phillips,K., Atkinson,A., Cooper,R.,
+            Jones,C., Hall,R.E., Andrews,T.D., Lloyd,C., Ainscough,R.,
+            Almeida,J.P., Ambrose,K.D., Anderson,F., Andrew,R.W., Ashwell,R.I.,
+            Aubin,K., Babbage,A.K., Bagguley,C.L., Bailey,J., Beasley,H.,
+            Bethel,G., Bird,C.P., Bray-Allen,S., Brown,J.Y., Brown,A.J.,
+            Buckley,D., Burton,J., Bye,J., Carder,C., Chapman,J.C., Clark,S.Y.,
+            Clarke,G., Clee,C., Cobley,V., Collier,R.E., Corby,N.,
+            Coville,G.J., Davies,J., Deadman,R., Dunn,M., Earthrowl,M.,
+            Ellington,A.G., Errington,H., Frankish,A., Frankland,J., French,L.,
+            Garner,P., Garnett,J., Gay,L., Ghori,M.R., Gibson,R., Gilby,L.M.,
+            Gillett,W., Glithero,R.J., Grafham,D.V., Griffiths,C.,
+            Griffiths-Jones,S., Grocock,R., Hammond,S., Harrison,E.S., Hart,E.,
+            Haugen,E., Heath,P.D., Holmes,S., Holt,K., Howden,P.J., Hunt,A.R.,
+            Hunt,S.E., Hunter,G., Isherwood,J., James,R., Johnson,C.,
+            Johnson,D., Joy,A., Kay,M., Kershaw,J.K., Kibukawa,M.,
+            Kimberley,A.M., King,A., Knights,A.J., Lad,H., Laird,G., Lawlor,S.,
+            Leongamornlert,D.A., Lloyd,D.M., Loveland,J., Lovell,J., Lush,M.J.,
+            Lyne,R., Martin,S., Mashreghi-Mohammadi,M., Matthews,L.,
+            Matthews,N.S., McLaren,S., Milne,S., Mistry,S., Moore,M.J.,
+            Nickerson,T., O'Dell,C.N., Oliver,K., Palmeiri,A., Palmer,S.A.,
+            Parker,A., Patel,D., Pearce,A.V., Peck,A.I., Pelan,S., Phelps,K.,
+            Phillimore,B.J., Plumb,R., Rajan,J., Raymond,C., Rouse,G.,
+            Saenphimmachak,C., Sehra,H.K., Sheridan,E., Shownkeen,R., Sims,S.,
+            Skuce,C.D., Smith,M., Steward,C., Subramanian,S., Sycamore,N.,
+            Tracey,A., Tromans,A., Van Helmond,Z., Wall,M., Wallis,J.M.,
+            White,S., Whitehead,S.L., Wilkinson,J.E., Willey,D.L., Williams,H.,
+            Wilming,L., Wray,P.W., Wu,Z., Coulson,A., Vaudin,M., Sulston,J.E.,
+            Durbin,R., Hubbard,T., Wooster,R., Dunham,I., Carter,N.P.,
+            McVean,G., Ross,M.T., Harrow,J., Olson,M.V., Beck,S., Rogers,J.,
+            Bentley,D.R., Banerjee,R., Bryant,S.P., Burford,D.C., Burrill,W.D.,
+            Clegg,S.M., Dhami,P., Dovey,O., Faulkner,L.M., Gribble,S.M.,
+            Langford,C.F., Pandian,R.D., Porter,K.M. and Prigmore,E.
+  TITLE     The DNA sequence and biological annotation of human chromosome 1
+  JOURNAL   Nature 441 (7091), 315-321 (2006)
+   PUBMED   16710414
+  REMARK    Erratum:[Nature. 2006 Oct 26;443(7114):1013. Banerjee, R [added];
+            Bryant, SP [added]; Burford, DC [added]; Burrill, WDH [added];
+            Clegg, SM [added]; Dhami, P [added]; Dovey, O [added]; Faulkner, LM
+            [added]; Gribble, SM [added]; Langford, CF [added]; Pandian, RD
+            [added]; Porter, KM [added]; Prigmore, E [added]]
+REFERENCE   2  (bases 1 to 32741)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   3  (bases 1 to 32741)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000663.2.
+            
+            On Feb 3, 2014 this sequence version replaced NC_000001.10.
+            Assembly Name: GRCh38.p14 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001405.40-RS_2023_10
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           RefSeqFE; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 10/02/2023
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..32741
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+     gene            1..32741
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="NLR family pyrin domain containing 3; Derived by
+                     automated computational analysis using gene prediction
+                     method: BestRefSeq,Gnomon."
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(1..20,1977..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 2 mRNAs, 9 ESTs, 18 long SRA
+                     reads, 5 Proteins, and 96% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 8 samples
+                     with support for all annotated introns"
+                     /transcript_id="XM_047443535.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..3001,7154..7273,7771..9523,
+                     13509..13679,27896..28066,28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X10"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_024452862.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..3001,7154..7273,7771..9523,
+                     27896..28066,28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X13"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_024452874.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..2214,2626..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X4"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_047443539.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..2214,2681..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X1"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_047443533.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..2214,2681..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,27896..28066,28575..28745,
+                     32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X8"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_047443557.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..2214,2681..3001,7154..7273,7771..9523,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X7"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_047443546.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..239,1977..2214,2681..3001,7154..7273,7771..9523,
+                     18027..18197,27896..28066,28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X11"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_047443571.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant 6"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001243133.2"
+                     /db_xref="Ensembl:ENST00000336119.8"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_004895.5"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,27896..28066,28575..28745,
+                     32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant 4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001127461.3"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     13509..13679,27896..28066,28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X12"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 11 ESTs, 13 long SRA reads, 2
+                     Proteins, and 95% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 4 samples with
+                     support for all annotated introns"
+                     /transcript_id="XM_047443578.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant 5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001127462.3"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     18027..18197,27896..28066,28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_183395.3"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..3001,7154..7273,7771..9523,
+                     27896..28066,28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X14"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 11 ESTs, 12 long SRA reads, 2
+                     Proteins, and 95% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 4 samples with
+                     support for all annotated introns"
+                     /transcript_id="XM_047443582.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..2214,2626..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X6"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 8 ESTs, 22 long SRA reads, 3
+                     Proteins, and 100% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 10 samples with
+                     support for all annotated introns"
+                     /transcript_id="XM_017000181.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..2214,2681..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 10 ESTs, 41 long SRA reads, 3
+                     Proteins, and 98% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 11 samples with
+                     support for all annotated introns"
+                     /transcript_id="XM_017000182.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,1977..2214,2681..3001,7154..7273,7771..9523,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X9"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 1 mRNA, 10 ESTs, 13 long SRA
+                     reads, 3 Proteins, and 98% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 8 samples
+                     with support for all annotated introns"
+                     /transcript_id="XM_047443562.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(97..117,2153..2214,2681..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001079821.3"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     mRNA            join(337..970,1977..3001,7154..7273,7771..9523,
+                     13509..13679,18027..18197,19894..20064,27896..28066,
+                     28575..28745,32329..32741)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /product="NLR family pyrin domain containing 3, transcript
+                     variant X2"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248]"
+                     /transcript_id="XM_047443534.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X1"
+                     /protein_id="XP_016855670.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X1"
+                     /protein_id="XP_016855671.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X1"
+                     /protein_id="XP_047299489.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X1"
+                     /protein_id="XP_047299490.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X1"
+                     /protein_id="XP_047299491.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X1"
+                     /protein_id="XP_047299495.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="isoform a is encoded by transcript variant 1;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform a"
+                     /protein_id="NP_004886.3"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHS
+                     LTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     misc_feature    2731..2733
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:28465465; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    2755..2757
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000269|PubMed:28943315; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7261..7272
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: Required for binding to phosphatidylinositol
+                     4-phosphate (PtdIns4P).
+                     /evidence=ECO:0000250|UniProtKB:Q8R4B8"
+     misc_feature    7773..7775
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphotyrosine, by BTK.
+                     /evidence=ECO:0000269|PubMed:34554188; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7785..7787
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphotyrosine, by BTK.
+                     /evidence=ECO:0000269|PubMed:34554188; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7794..7796
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphotyrosine, by BTK.
+                     /evidence=ECO:0000269|PubMed:34554188; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7848..7850
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q8R4B8; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7854..7856
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:28943315; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7869..7871
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphotyrosine, by BTK.
+                     /evidence=ECO:0000269|PubMed:34554188; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    7959..7961
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:28943315; Phosphoserine, by
+                     MAPK8. /evidence=ECO:0000269|PubMed:35114687; propagated
+                     from UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation
+                     site"
+     misc_feature    7968..7970
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:35114687; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    8250..8252
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:Q8R4B8; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    8367..8369
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:28943315; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    8430..8444
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: KFERQ-like motif 1.
+                     /evidence=ECO:0000269|PubMed:36586411"
+     misc_feature    9174..9188
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: KFERQ-like motif 2.
+                     /evidence=ECO:0000269|PubMed:36586411"
+     misc_feature    13534..13536
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:28943315; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    13555..13557
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine, by CSNK1A1.
+                     /evidence=ECO:0000269|PubMed:34615873; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    13576..13638
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 1"
+     misc_feature    join(13663..13679,18027..18075)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 2"
+     misc_feature    18091..18105
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: KFERQ-like motif 3.
+                     /evidence=ECO:0000269|PubMed:36586411"
+     misc_feature    18094..18156
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 3"
+     misc_feature    18115..18117
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine, by CSNK1A1.
+                     /evidence=ECO:0000269|PubMed:34615873; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    join(18181..18197,19894..19942)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 4"
+     misc_feature    19961..20023
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 5"
+     misc_feature    19976..19978
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000269|PubMed:27043286; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    join(20048..20064,27896..27944)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 6"
+     misc_feature    27963..28025
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 7"
+     misc_feature    join(28050..28066,28575..28623)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 8"
+     misc_feature    28642..28707
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: LRR 9"
+     misc_feature    28657..28659
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000269|PubMed:28943315; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     misc_feature    28705..28719
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q96P20.3);
+                     Region: KFERQ-like motif 4.
+                     /evidence=ECO:0000269|PubMed:36586411"
+     misc_feature    32420..32422
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Phosphoserine, by CSNK1A1.
+                     /evidence=ECO:0000269|PubMed:34615873; propagated from
+                     UniProtKB/Swiss-Prot (Q96P20.3); phosphorylation site"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X3"
+                     /protein_id="XP_047299513.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQ
+                     KLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVNSGLTSVCCSALSSVLSTNQN
+                     LTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSL
+                     RKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELT
+                     VVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X4"
+                     /protein_id="XP_024308630.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLVNSGLTSVCCSALSSVLSTNQ
+                     NLTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQS
+                     LRKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPEL
+                     TVVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,13509..13679,
+                     27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X4"
+                     /protein_id="XP_047299534.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTS
+                     QSLTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLVNSGLTSVCCSALSSVLSTNQ
+                     NLTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQS
+                     LRKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPEL
+                     TVVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,18027..18197,
+                     19894..20064,27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X2"
+                     /protein_id="XP_047299502.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLGRCGLSHECCFDISLVLSSN
+                     QKLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSH
+                     SLTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQN
+                     LTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSL
+                     RKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELT
+                     VVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,18027..18197,
+                     19894..20064,27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X2"
+                     /protein_id="XP_047299518.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLGRCGLSHECCFDISLVLSSN
+                     QKLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSH
+                     SLTRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQN
+                     LTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSL
+                     RKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELT
+                     VVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,18027..18197,
+                     27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X5"
+                     /protein_id="XP_047299527.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLGRCGLSHECCFDISLVLSSN
+                     QKLVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVNSGLTSVCCSALSSVLSTNQ
+                     NLTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQS
+                     LRKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPEL
+                     TVVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,27896..28066,
+                     28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X6"
+                     /protein_id="XP_024308642.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSGLTSVCCSALSSVLSTN
+                     QNLTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQ
+                     SLRKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPE
+                     LTVVFEPSW"
+     CDS             join(2719..3001,7154..7273,7771..9523,27896..28066,
+                     28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform X6"
+                     /protein_id="XP_047299538.1"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MKMASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRG
+                     QTEKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVS
+                     NPTVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGE
+                     SVSLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEP
+                     VHTVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLI
+                     MSCCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSS
+                     LIRKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQA
+                     RAAFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSL
+                     LQPRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLF
+                     QKEVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYG
+                     KFEKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQ
+                     PSQLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLG
+                     FLHNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSGLTSVCCSALSSVLSTN
+                     QNLTHLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQ
+                     SLRKLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPE
+                     LTVVFEPSW"
+     CDS             join(2725..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="isoform e is encoded by transcript variant 3;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform e"
+                     /protein_id="NP_001073289.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRGQT
+                     EKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVSNP
+                     TVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGESV
+                     SLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEPVH
+                     TVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLIMS
+                     CCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSSLI
+                     RKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQARA
+                     AFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSLLQ
+                     PRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLFQK
+                     EVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYGKF
+                     EKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQPS
+                     QLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLGFL
+                     HNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTSQS
+                     LTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQKL
+                     VELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHSLT
+                     RLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNLTH
+                     LYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLRKL
+                     SLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTVVF
+                     EPSW"
+     CDS             join(2725..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,19894..20064,27896..28066,28575..28745,
+                     32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="isoform e is encoded by transcript variant 6;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform e"
+                     /protein_id="NP_001230062.1"
+                     /db_xref="CCDS:CCDS1632.2"
+                     /db_xref="Ensembl:ENSP00000337383.4"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRGQT
+                     EKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVSNP
+                     TVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGESV
+                     SLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEPVH
+                     TVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLIMS
+                     CCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSSLI
+                     RKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQARA
+                     AFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSLLQ
+                     PRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLFQK
+                     EVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYGKF
+                     EKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQPS
+                     QLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLGFL
+                     HNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTSQS
+                     LTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQKL
+                     VELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHSLT
+                     RLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNLTH
+                     LYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLRKL
+                     SLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTVVF
+                     EPSW"
+     CDS             join(2725..3001,7154..7273,7771..9523,13509..13679,
+                     18027..18197,27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="isoform c is encoded by transcript variant 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform c"
+                     /protein_id="NP_001120933.2"
+                     /db_xref="CCDS:CCDS44346.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRGQT
+                     EKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVSNP
+                     TVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGESV
+                     SLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEPVH
+                     TVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLIMS
+                     CCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSSLI
+                     RKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQARA
+                     AFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSLLQ
+                     PRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLFQK
+                     EVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYGKF
+                     EKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQPS
+                     QLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLGFL
+                     HNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLVNSHLTSSFCRGLFSVLSTSQS
+                     LTELDLSDNSLGDPGMRVLCETLQHPGCNIRRLWLGRCGLSHECCFDISLVLSSNQKL
+                     VELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVNSGLTSVCCSALSSVLSTNQNLT
+                     HLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLRK
+                     LSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTVV
+                     FEPSW"
+     CDS             join(2725..3001,7154..7273,7771..9523,18027..18197,
+                     19894..20064,27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="isoform d is encoded by transcript variant 5;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform d"
+                     /protein_id="NP_001120934.2"
+                     /db_xref="CCDS:CCDS44347.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRGQT
+                     EKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVSNP
+                     TVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGESV
+                     SLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEPVH
+                     TVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLIMS
+                     CCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSSLI
+                     RKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQARA
+                     AFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSLLQ
+                     PRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLFQK
+                     EVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYGKF
+                     EKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQPS
+                     QLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLGFL
+                     HNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLGRCGLSHECCFDISLVLSSNQK
+                     LVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVSCCLTSACCQDLASVLSTSHSL
+                     TRLYVGENALGDSGVAILCEKAKNPQCNLQKLGLVNSGLTSVCCSALSSVLSTNQNLT
+                     HLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLRK
+                     LSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTVV
+                     FEPSW"
+     CDS             join(2725..3001,7154..7273,7771..9523,18027..18197,
+                     27896..28066,28575..28745,32329..32428)
+                     /gene="NLRP3"
+                     /gene_synonym="AGTAVPRL; AII; AVP; C1orf7; CIAS1; CLR1.1;
+                     DFNA34; FCAS; FCAS1; FCU; KEFH; MWS; NALP3; PYPAF1"
+                     /note="isoform b is encoded by transcript variant 2;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 3
+                     isoform b"
+                     /protein_id="NP_899632.2"
+                     /db_xref="CCDS:CCDS1633.2"
+                     /db_xref="GeneID:114548"
+                     /db_xref="HGNC:HGNC:16400"
+                     /db_xref="MIM:606416"
+                     /translation="MASTRCKLARYLEDLEDVDLKKFKMHLEDYPPQKGCIPLPRGQT
+                     EKADHVDLATLMIDFNGEEKAWAMAVWIFAAINRRDLYEKAKRDEPKWGSDNARVSNP
+                     TVICQEDSIEEEWMGLLEYLSRISICKMKKDYRKKYRKYVRSRFQCIEDRNARLGESV
+                     SLNKRYTRLRLIKEHRSQQEREQELLAIGKTKTCESPVSPIKMELLFDPDDEHSEPVH
+                     TVVFQGAAGIGKTILARKMMLDWASGTLYQDRFDYLFYIHCREVSLVTQRSLGDLIMS
+                     CCPDPNPPIHKIVRKPSRILFLMDGFDELQGAFDEHIGPLCTDWQKAERGDILLSSLI
+                     RKKLLPEASLLITTRPVALEKLQHLLDHPRHVEILGFSEAKRKEYFFKYFSDEAQARA
+                     AFSLIQENEVLFTMCFIPLVCWIVCTGLKQQMESGKSLAQTSKTTTAVYVFFLSSLLQ
+                     PRGGSQEHGLCAHLWGLCSLAADGIWNQKILFEESDLRNHGLQKADVSAFLRMNLFQK
+                     EVDCEKFYSFIHMTFQEFFAAMYYLLEEEKEGRTNVPGSRLKLPSRDVTVLLENYGKF
+                     EKGYLIFVVRFLFGLVNQERTSYLEKKLSCKISQQIRLELLKWIEVKAKAKKLQIQPS
+                     QLELFYCLYEMQEEDFVQRAMDYFPKIEINLSTRMDHMVSSFCIENCHRVESLSLGFL
+                     HNMPKEEEEEEKEGRHLDMVQCVLPSSSHAACSHGLGRCGLSHECCFDISLVLSSNQK
+                     LVELDLSDNALGDFGIRLLCVGLKHLLCNLKKLWLVNSGLTSVCCSALSSVLSTNQNL
+                     THLYLRGNTLGDKGIKLLCEGLLHPDCKLQVLELDNCNLTSHCCWDLSTLLTSSQSLR
+                     KLSLGNNDLGDLGVMMFCEVLKQQSCLLQNLGLSEMYFNYETKSALETLQEEKPELTV
+                     VFEPSW"
+     misc_feature    7967..8130
+                     /standard_name="ReSE screen-validated silencer
+                     GRCh37_chr1:247587345-247587508"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129660562"
+     regulatory      7967..8130
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:32094911]"
+                     /note="fragment chr1:247587345-247587508 (GRCh37/hg19
+                     assembly coordinates)"
+                     /function="represses an EF-1alpha promoter that drives an
+                     FKBP-Casp9 reporter gene in an ReSE screen in HepG2 liver
+                     carcinoma cells {active_cell/tissue: HepG2}"
+                     /db_xref="GeneID:129660562"
+     misc_feature    19312..19421
+                     /standard_name="ATAC-STARR-seq lymphoblastoid active
+                     region 2869"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129932953"
+     regulatory      19312..19421
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_2869"
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:129932953"
+     gene            complement(23205..32151)
+                     /gene="LOC124904575"
+                     /note="uncharacterized LOC124904575; Derived by automated
+                     computational analysis using gene prediction method:
+                     Gnomon."
+                     /db_xref="GeneID:124904575"
+     ncRNA           complement(join(23205..23457,32008..32151))
+                     /ncRNA_class="lncRNA"
+                     /gene="LOC124904575"
+                     /product="uncharacterized LOC124904575"
+                     /experiment="COORDINATES: cap analysis [ECO:0007248] and
+                     polyA evidence [ECO:0006239]"
+                     /transcript_id="XR_007067005.1"
+                     /db_xref="GeneID:124904575"
+     misc_feature    24141..24460
+                     /standard_name="ATAC-STARR-seq lymphoblastoid active
+                     region 2870"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129932954"
+     regulatory      24141..24460
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_2870"
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:129932954"
+     misc_feature    24471..24540
+                     /standard_name="ATAC-STARR-seq lymphoblastoid active
+                     region 2871"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129932955"
+     regulatory      24471..24540
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_2871"
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:129932955"
+ORIGIN      
+        1 ctctctgcct ctgctctgat gtaagtggag accacatcct tcctgcccct tctggggctg
+       61 cgactgctat aaattcattg catttcctct ctagctgttc ctgaggctgg catctgggta
+      121 agtccagctc cgcggggcag tgtgggcgac aggaccggga gagcagtggg ggagattgtg
+      181 ttcagagggc agaacttgtc ctggttaatg cactaggaat ttcttctggc gtctccaagg
+      241 ttgtgcttca acaacatttc tggaatgttc ttttatcatt atttgggctc tacgtgtgca
+      301 agttcgtgtg tgtgtatgtg gcggggggaa gcggggagga cagcggcagc aaccatagtt
+      361 tacacccacg acttcagcag atttgcccag tatccctccc aggggagaag atggatggga
+      421 tatacagaag gaaacaaacc tccttaaaga ccaaagggca gcagattttt gtgctggtgt
+      481 tagggtggaa ggagcacaga agaaaggcag aatcctgatg cagatggaag gactgatggg
+      541 gcaggagctg ggagggtatg cggagctaat agggctgtct ggagagcagt cacctcagga
+      601 tgggcaggag ctgggagggt atgcggagct aatagggctg tctggagagc agtcacctca
+      661 ggatgcacag ggctgggttt gcagggctca ggaggcgagg agtagatagg caggaatgga
+      721 gatgggacgg gagagatgag tgagtctgag gcatcttgac attgaactgc agtcacagaa
+      781 attccaattt ggagagctcc accgttttcc aggctctctg cctcccttga gtgttattta
+      841 tggctttagg ttgaggtgct ttgccaaata gagtataatc aagggatcaa ggagggaaca
+      901 attccaaaca aagccaactt gttcatccat ccggactcta ggagatatgg aagatctaaa
+      961 gatacagcag gtgattgcta gtttttgtgg aactcacagt ctagttggga agactatgtt
+     1021 ggtgaatgct gcagtgatac acctgtgata aatgctgggg aagtgtgtct tttagtcatc
+     1081 tattttgttg tctttgtctt tgtctgactg aaacaagtga tggaagacat ggtctcatat
+     1141 ctctggtcaa aatcctggct ctgttccttc ctggttctaa acccctcggc aggcttccta
+     1201 gtccccctaa gactcagttt atgcatctat aaaatggggc taggaatagg tgcacctcat
+     1261 agagctctgt gcaggttaga tggggaaaaa catcagtgag tgcctagcct gtggaaagct
+     1321 ctaaattaat gtgaattata atgataacaa ttgcgaattt tgcaaggaga cattaaagga
+     1381 tgtatgtttt tatttatttt attttattct attttatttt ttgagatgga gttttgctct
+     1441 tattgcccag gctggagtgc agtggtgtga tcttggctca tcgcaacctc cgcctcctgg
+     1501 gttcaagcga ttctcctgcc tcagcctccc gagtagctgg gattacaggt gcctggtacc
+     1561 atgcccggtt aatttttgta tttttagtag agacgggatt tctccctgtt gtttggtgag
+     1621 cctggtctcc aactcctgac ctcaggtgat ccgcccacct cggcctccca aagtgctggg
+     1681 attacaggga tgtatgtttt tattattctc cattatgcac tcccagcttc atctcacttc
+     1741 aatccactgg ttgatagaag tgcagtcaaa gactgtcccc tcctctgcaa gcttttatgt
+     1801 tctctctcct ctctccctag ccacgtcctg ttctgttatc aacacactta ctcacctcct
+     1861 ggccttctcc ttctattgtc tctcatccct cttccctcac aaaaacagaa gcaaagagcc
+     1921 agagccttca gtttggagga actgaaaaca ttctcttctg ctttctcatt ttgtagatga
+     1981 ggaaactgaa gttgaggaat agtgaagagt ttgtccaatg tcatagcccc gtaatcaacg
+     2041 ggacaaaaat tttcttgctg atgggtcaag atggcatcgt gaagtggttg ttcaccgtaa
+     2101 actgtaatac aatcctgttt atggatttgt ttgcatattt ttccctccat agggaaacct
+     2161 ttcttccatg gctcaggaca cactcctgga tcgagccaac aggagaactt tctggtaagc
+     2221 atttggctaa cttttttttt tttgagatgg agtcttgctg tgtcgcctag gctggagtgc
+     2281 agtggcgtga tcttggctca ctgcagcctc cacttcccgg gttcaatcaa ttctcctacc
+     2341 tcaacttcct gagtagctgg gattacaggc gcccgccacc acacccggct catttttgta
+     2401 cttttagtag agacacagtt ttgccatgtt ggccaggctg gtcttgaatt cctcagctca
+     2461 ggtgatctgc ctgccttggc ctctcaaagt gctgggatta caggcgtgag ccactgtgcc
+     2521 cggccttggc taacttttca aaattaaaga ttttgacttg ttacagtcat gtgacatttt
+     2581 tttctttctg tttgctgagt ttttgataat ttatatctct caaagtggag actttaaaaa
+     2641 agactcatcc gtgtgccgtg ttcactgcct ggtatcttag tgtggaccga agcctaagga
+     2701 ccctgaaaac agctgcagat gaagatggca agcacccgct gcaagctggc caggtacctg
+     2761 gaggacctgg aggatgtgga cttgaagaaa tttaagatgc acttagagga ctatcctccc
+     2821 cagaagggct gcatccccct cccgaggggt cagacagaga aggcagacca tgtggatcta
+     2881 gccacgctaa tgatcgactt caatggggag gagaaggcgt gggccatggc cgtgtggatc
+     2941 ttcgctgcga tcaacaggag agacctttat gagaaagcaa aaagagatga gccgaagtgg
+     3001 ggtgagtgga aggaagactt ttaaaaaaaa ttgtggccaa gtgcacatag tgtacaattt
+     3061 tccatcttta tatatatata tatatatatt tttttttgag acggagttgc tcttgttgcc
+     3121 caggctggag tgcaatggtg agatcttggc tcactgcaac ctccacctcc cgggttcaag
+     3181 cgattttcct gcctcagcct cccaagtagc tgggattaca ggcattgcac ctccacgccc
+     3241 ggctaatttt gtatttttag tagagatggg gtttctccat gttggtcagg ttggtctcaa
+     3301 actcccgacc tcaggtgatc cacccgcctc ggcctcgcaa agtgctggaa ttacaggtgt
+     3361 gagccaccgc gcccggccgt aataattttt aaatgtacag ttcagtagtg ttaggtacac
+     3421 tcacattgtg caaccagtct ccagaactgt tttcatcttg caaaactgaa actcctcacc
+     3481 cattgaatga taactcctca ttgcctcatt ctcccagccc tggtaaccac cattctattt
+     3541 gccatctctg tgaatcttac tactctgggt acctcatata agtggaaaca tacagcattt
+     3601 tttcctttat gagtagttta tttcactcag cataatgtcc tccgggttca actatgttgt
+     3661 agcatgtgtc ggaattccct tcctttaaaa aagactgtat aaatactcca tggtaccata
+     3721 taccaaattt tgtttagtta tctgttgatg aacacctgga ttacttctac ctttttgtta
+     3781 ttgttaatgc tgttatgagt gttggtgcac aaatatctct tcaagaccct gctttgaatt
+     3841 ctctggggta tatactcaga agtgaaattt ctgaatcata cggtaattct gttaaatatt
+     3901 ttgaagaact gctctactgt tttagatacc atctgcacca tttcccacca acagcacaca
+     3961 agggttccaa tttctccata tcctaagaac acgttatttt tatttatttt ttctttttta
+     4021 tagtagccat tctaatgagt gtgaggtggt atctcactgt agttttgatt tccgtttccc
+     4081 taatgataag tgatgctgag cacattttca ctgcttgttg gccatttata gagcttcttc
+     4141 agagaaagtt ctgttcaagt tcttttctca ttttcagacc aggtttggct tttgttgttg
+     4201 ccttgtagga gttctttatg tattctagat attaacccca tatcagatat atgatttaca
+     4261 aatattttct cctattctgt gggttgtctt ttcatttggt taactgtgtc ctttgatgca
+     4321 cagaagttag tatgattttt ttttttttaa atcatggccg ggcatggtgg ctcatgcctg
+     4381 taattccagc actttgtgag gctgaggtgg gtggatcacc tgaggtcagg agttcaacac
+     4441 cagcctggcc aacatggcaa aaccccatct ctactaaaaa tacaaaaaaa attagccggg
+     4501 tgtggtggtg ggcacctgta atcccagcta ctcaggaggc tgaggtagga gaattgcttg
+     4561 aacatgggga gtggaggttg cagtgagctg agattgcacc acggcactcc agcctgggct
+     4621 aaagagcaag accctgtttc aaaaaaaaat ttttttttct tgtattgtct tggttttttc
+     4681 tcttttcccc tctcacggta gtgctatgag aaggtggagg caaactgttt gctttctcta
+     4741 actcctttaa aaagctgatg cagactgtac ctaccccctg ggcacctgcc atgattagtc
+     4801 cctctttatc tgaatctcag cagtgcctag acctgcctcc aattctccat ccagcttctc
+     4861 agaccacatg ttttgtccag tatctgctgt gtggtcagca ggcttgggcc tctgcttcct
+     4921 atggcccaga gggcagcctc tctccttgaa gaaccgtgga gtttggggca gaagcctttc
+     4981 ctttcaccac cactttggga attggaatgt aaaagaaatt ctcttaatcc ccatgtacac
+     5041 attggggata aggttctttc ttttgtcttg tgttctaggc aaaggtaggg ctcagagaag
+     5101 ggcagggtat tgcaggatga tgatgtagag ctggtggtga tgggaaggag gagtacaaat
+     5161 gagtcagtgg atagggagac acatgttaag gcagggcagc agtgtgggtg taatgacact
+     5221 ggggaaacag acagcagtgt gcagccgggg gaggtcagaa accagttgct gcaatggctc
+     5281 tcacctgtag tcccagctac tcaggaggct aaggcaggag gatcgcttga gcccaggagc
+     5341 tcaaaaccag cctgagcaac atagggagac ctcatctcta agtaaataaa gcaattatca
+     5401 ttgtgtcagt acttatatac tcacataccc aaatgaaagt gtcataatca caactgtaga
+     5461 agtactttgc taagcagttt ttatggattt tatggcacat tcaagaaacc catgaaacag
+     5521 cttctggtat tatccctcct gcaagtgaat gaggtgagcc tggaagagat cctaactggc
+     5581 ccatggttta tttctagcca taaccagagc tggggtaaaa agcagggcat gtctctgatc
+     5641 aaagcctggc tcttaaccac tacaccgtct ttgcttccat atctggattt tgaggcagaa
+     5701 aagttataac tagggttaga agtttgtttg tttgtttcct ggggtggggt taggttttag
+     5761 gtaatagact ttggctaatt tactgtcatg gctcctacct gagtcccagt tactcaggtg
+     5821 gctgaagtgg gtgcatcact tgagctcagg agttccaggc tggagtgagc tatgaccatg
+     5881 ccactgccct ccagctttgg aaacaaagca agactctgtc tcttaaaaaa aaagaataag
+     5941 attttggttt tggcttagat tttttggatt ttattttgtg atatggttac caagtagaca
+     6001 gctgtcagag gtcttttatg ggctgggcgc agtggcttat gcctgtaatc ccagcacttc
+     6061 aggaggccaa gatgggagga ttgcttgagc ccaggagttt gagaccagcc tgggcaacat
+     6121 agtgagaacc tgtctctaca aaaaatgcaa acattagtta ggtgtggtgg cacgtgtcaa
+     6181 tagtcccagc tgttctggag gctgaggtgg gaggatcact tgagcccagg aggttgaggc
+     6241 tgcagggagc catgattgtg tcattgcact ccagcctggg caatagagtg aggccctgtc
+     6301 tcaaaaaaaa aaaaaaaatc atttatgtta cttgtagatt cctgcccacc tgaagttatc
+     6361 tgtcttatat atttccccta gtgactaact cttgttttac ctaacctgaa tttctcctat
+     6421 agaatgcctt cttaagatat gctatctagt gactgtttgg atttgtgatt ctcaacacag
+     6481 atgcatgttg gaatcacctg ggagctttta gtatgtgatg gttcctgggc ctcacctcag
+     6541 agggactgaa aaagaacctc tgggcgtgca gtcctgaagt ccatattttt aaagcttcct
+     6601 gggtgattct aaagtcagcc aggattccca accactagat taggcacgaa atagactggt
+     6661 cgttctcact cttgaagaac cagacatcta gacttgacaa tagaagacgt gtgtaaaatg
+     6721 gattgcaggg aactgcggtc agggaagggt gacctttctt agcccacagc cgtgttgggg
+     6781 atataggaga gcttggagat gccctcacaa tcaggctgcc aggggcaggc aaaagcaaac
+     6841 gagggtaaaa gaaacttagc ctgcttcgca tgtttgctga ttgatttcca ggcctgagga
+     6901 agagattctg agactgggga cagtgggaac acatgcttgg caggtggaca gcagaagttg
+     6961 ttttgaaact aggagtgcag aaatgctccc aaccagactt ttgactggat acctgtcctc
+     7021 tgcaactcag agccatgttt tgatttgggg gatgtttggg gtctcctctc tcatgccaaa
+     7081 tattaggcca ggtttcaatt gcatcctctg tgataatagt tctgggtttt gacacctttt
+     7141 ttttcccttt taggttcaga taatgcacgt gtttcgaatc ccactgtgat atgccaggaa
+     7201 gacagcattg aagaggagtg gatgggttta ctggagtacc tttcgagaat ctctatttgt
+     7261 aaaatgaaga aaggtaagcg actggggtgg tgcttctagt tgagttttaa gacctggttc
+     7321 aggaggctct gggaagctga gcagctgggt aacttggcca tactataggt tcctgctctt
+     7381 tggaatgcaa aggcctgtct caggaaatcc attgtcagtt gaagaaacaa attcatgttt
+     7441 gtgtggctct tgcagtccca gagccagcgg cggtgattaa gcgtttcaag tttgataagg
+     7501 cataggatgc agattactta aaggaataag attgattcaa atgatctttg ggctggtagc
+     7561 tacacataga gatgggcctt ctgctcagct gtgtatctta aaaacttgac accagagatt
+     7621 ctcggcacct ttcctaccca gtggggagga gctgcacctt ccatttctcc attccggtta
+     7681 ccactcgctt ccgatgacag gccccagctg agagcgcatc tcaggtggat gtgtgtatac
+     7741 tttcccccta acttcctgtc tttgccgtag attaccgtaa gaagtacaga aagtacgtga
+     7801 gaagcagatt ccagtgcatt gaagacagga atgcccgtct gggtgagagt gtgagcctca
+     7861 acaaacgcta cacacgactg cgtctcatca aggagcaccg gagccagcag gagagggagc
+     7921 aggagcttct ggccatcggc aagaccaaga cgtgtgagag ccccgtgagt cccattaaga
+     7981 tggagttgct gtttgacccc gatgatgagc attctgagcc tgtgcacacc gtggtgttcc
+     8041 agggggcggc agggattggg aaaacaatcc tggccaggaa gatgatgttg gactgggcgt
+     8101 cggggacact ctaccaagac aggtttgact atctgttcta tatccactgt cgagaggtga
+     8161 gccttgtgac acagaggagc ctgggggacc tgatcatgag ctgctgcccc gacccaaacc
+     8221 cacccatcca caagatcgtg agaaaaccct ccagaatcct cttcctcatg gacggcttcg
+     8281 atgagctgca aggtgccttt gacgagcaca taggaccgct ctgcactgac tggcagaagg
+     8341 ccgagcgggg agacattctc ctgagcagcc tcatcagaaa gaagctgctt cccgaggcct
+     8401 ctctgctcat caccacgaga cctgtggccc tggagaaact gcagcacttg ctggaccatc
+     8461 ctcggcatgt ggagatcctg ggtttctccg aggccaaaag gaaagagtac ttcttcaagt
+     8521 acttctctga tgaggcccaa gccagggcag ccttcagtct gattcaggag aacgaggtcc
+     8581 tcttcaccat gtgcttcatc cccctggtct gctggatcgt gtgcactgga ctgaaacagc
+     8641 agatggagag tggcaagagc cttgcccaga catccaagac caccaccgcg gtgtacgtct
+     8701 tcttcctttc cagtttgctg cagccccggg gagggagcca ggagcacggc ctctgcgccc
+     8761 acctctgggg gctctgctct ttggctgcag atggaatctg gaaccagaaa atcctgtttg
+     8821 aggagtccga cctcaggaat catggactgc agaaggcgga tgtgtctgct ttcctgagga
+     8881 tgaacctgtt ccaaaaggaa gtggactgcg agaagttcta cagcttcatc cacatgactt
+     8941 tccaggagtt ctttgccgcc atgtactacc tgctggaaga ggaaaaggaa ggaaggacga
+     9001 acgttccagg gagtcgtttg aagcttccca gccgagacgt gacagtcctt ctggaaaact
+     9061 atggcaaatt cgaaaagggg tatttgattt ttgttgtacg tttcctcttt ggcctggtaa
+     9121 accaggagag gacctcctac ttggagaaga aattaagttg caagatctct cagcaaatca
+     9181 ggctggagct gctgaaatgg attgaagtga aagccaaagc taaaaagctg cagatccagc
+     9241 ccagccagct ggaattgttc tactgtttgt acgagatgca ggaggaggac ttcgtgcaaa
+     9301 gggccatgga ctatttcccc aagattgaga tcaatctctc caccagaatg gaccacatgg
+     9361 tttcttcctt ttgcattgag aactgtcatc gggtggagtc actgtccctg gggtttctcc
+     9421 ataacatgcc caaggaggaa gaggaggagg aaaaggaagg ccgacacctt gatatggtgc
+     9481 agtgtgtcct cccaagctcc tctcatgctg cctgttctca tgggtaagga aactcggctt
+     9541 ccaggtgctt cctcctgctt cctcgccagc ttcttcttgg cgcttgcctc ctctcatctc
+     9601 ttttcaacta tcttccaaat actgttgcca cagctacatc ataatgccac cactgtctgt
+     9661 ttgagactcc ttcatgagca aagattgatg tatggtaggt ggataaatgg gatgaggaaa
+     9721 aaaaaaataa aacaaggaac aaatgtttgg ggaatgccag tttagcacaa ggtattaagt
+     9781 aggatgtagg attgcctaca aatatttgtc aactgaaatt tcttgtaagc tacttggagc
+     9841 actagtgcct aagagtcagt caatgtctgt ggggcagaac aatgccagag agtctgtgtc
+     9901 ccaggagcga ggggacagag ggcctcagag ctggaggctg gggggatgtt tcttagaaat
+     9961 gtgcaatcta agcctccttt aaggaatggt gggacctggg cgcatagaga agaaattaaa
+    10021 ggaattctgc actgaagact ggtatgagcc aaatcatgaa tgcagtctga gaaaaagtgt
+    10081 gtgcaggtga cagtggagag agacacagtt tccttggaaa aaaacatgat gaaggtaaat
+    10141 caagggaaat agagcagaaa tgtggagacc ctctttctag gcccccatgt tgctctgcac
+    10201 tgggcattgc caaaaccccg ttttcgggtc tgttcacaca cttgctgggt ggttggaagc
+    10261 tagtggccaa gtctgtgcaa tgaagtggtt gagtcacctg acttctgagt cccttttggg
+    10321 tttatcgttc agtgcctcct gcagaaggac cacccacagt ggttgtagga aggtggccac
+    10381 cctgtgatgt gtgagtttag cctggataga agacacttga cgtggggcaa aattaaggga
+    10441 aacaggaggc ttggcccttc cacaggcaac aatgagtttc agctttcttg atccgttgac
+    10501 attaccatga ccaggaccac cttcctagtc atggtttggc catgaaggac tgactgccca
+    10561 cagggccgca gtggtggtga agacccaggt cctggtcaca gggacttgag gtctggctgt
+    10621 gggacagtcc ggaaacaagt gcagatgtcg gggagggggt catgggctct gacaaggaaa
+    10681 cttgcagagt atccaaagca caaggggacg aacctgttca ccagcggggc acgggtgggt
+    10741 gtccccgctc agccagcttc cggaggatgg gcagtgagag agtgagagaa ggaaaggggc
+    10801 agccaggctg ggggcttacg gtgttgagag agagggcagg tgtgggaaag cagggtacgg
+    10861 tttctacggc agcaaacagt tccgagtgac tggaaaaaag acagttgtct tcattcatca
+    10921 ggttgccata acaaaacact gcaggctggt tggcttataa gcaaaaggaa ggttcacctt
+    10981 acggttctgg aggctgggaa gtccatgatc caggctctgg cagatctggt gtttggtgag
+    11041 ggcctgttcc ctggtcgatg gtgccttctc actgtgtcct tacatggtga agaggcaagg
+    11101 cagctctctg gggtcccttt cctaaggaca gcaatcccac tcctgagggc tccaccctca
+    11161 taacttaacc acacctcaaa ggccccatcg cctgatacgt catgttgagg gttaggattt
+    11221 cagcgtatgg attttggggc acacaaacat tcagaccata gaaatgggag aagaagagta
+    11281 agacagagag aaaagtaggc agaactactc attaagagtg aggtggaagg tggagagggc
+    11341 agggagacct tatgaagatc acacatctgt gaggaaggtt tgcacactct cactgaagcc
+    11401 ccggtaggag gctcagcacc catttctcta gatagcacct tccttcctct gaggacagat
+    11461 tctgactgga gccctggtag ggggctcagc acccatccct ctagatggca cctgccttac
+    11521 tctgaggaca gactctcact gaagccccgg taggaggctc agcacccatt tctctagata
+    11581 gcaccttcct tcctctgagg acagactctg attggagccc tggcaggggg ctcagcaccc
+    11641 atttctctag atagcacctt ccttcctctg aggacagact ctcactgaag ccccggtagg
+    11701 aggctcagca cccatttctc tagatagcac cttccttcct ctgaggacag actctgattg
+    11761 gagccctggc agggggctca gcacccatcc ctctagatgg cacctgcctt actctgagga
+    11821 cagactctca ctgaagcccc ggtaggaggc tcagcaacca tttctctaga tagcaccttc
+    11881 cttcctctga ggacagactc tgattggagc cctggcaggg ggctcagcac ccatttctct
+    11941 agatagcacc ttccttcctc tgaggacaga ctctcactga agccccggta ggaggctcag
+    12001 cacccatttc tctagatagc accttccttc ctcaggacag actctgactg gaaccctggt
+    12061 agggggctca gcacccatcc ctctagatgg cacctgcctt actctgagga cagactctga
+    12121 cgggagccct ggtagggggc tcagcaccca tccctctaga tggcacctgc cttactctga
+    12181 ggacagactc tgactggagc cctggtaggg ggctcagcac ccatctttct agatggcagc
+    12241 tgccttactc tgagggcagg agcttgcttt gtatgttcca gtcccttctg agaaccagaa
+    12301 gcctgagcat ctattagaaa tgcaggattg tggacccaat cttagaccta gagagctaga
+    12361 ctttgcattt gaatgagagc tacaggtgat tcaaaggtga ctgcatgtgt gggtgcagtg
+    12421 gctcttgcct gtaatcctag gttttgggag gccaagatgg ggggattgct tgaagccagg
+    12481 aattcaagtc ctacctgagc agcaaagtga gagcacctct ctacagaaaa acaaaagcaa
+    12541 aaatgtgact gcatgttgga gccacctggc tttttttaaa taaaaaagat ccatatagct
+    12601 ggacacagtg actcgtgcct gtaacctcag ctactcggga ggctgaggca agaggattgc
+    12661 ttgagcccag gagtttgagg ctgcagtgag ctatgatcat ggcactgcat tccagcttgg
+    12721 gtttcatctg aaaaaaaatt taaaaaattc atctagttcc acctcagagc ttctgatttt
+    12781 atttccatgg atgtggcctg ggcttgcgat tttctttttc tttttttttt ttttgagatg
+    12841 aagtcttgct ctgttgccca ggctggagtg ctgtggcatg atcttggctc actgcaactt
+    12901 ccacctccca ggttcaagtg attctcctgc ctcagcctcc ctaatagctg ggatgacagg
+    12961 ctcgtgccac cacacccaat taatttttgt atttttagta gagagagggt ttcaccatgt
+    13021 tggccaggct gatcttgaac tcctgacctc aggtgatctg cccgcctcgg cctcccaaag
+    13081 tgctgggatt acaggtgtga gccaccatgc ccagcctggc ctgaggattt ttgtgagcac
+    13141 tcctgatgct gttgtgtagc caggagtgag gactgccctc tgatcaccca gcacagaacg
+    13201 ttcagggcca tgttgggaca gtggactggt aagggcgaga ggaggacact ggggagcagg
+    13261 ctgtagggtg ccacagtccg ccacagtcac aggctcatgc tctccgtccg agaggaggca
+    13321 gaactgcttt taccaaggct catccagccc tcttcatttc tctgggaaca atttttggtt
+    13381 tcgtgaccca tttcttaatc cccggaaggc atttctctga actggtgcca ggcaccccgg
+    13441 cccccagctc cagttagtta ttattcgagg ctgatttctt ttctgtctgt cttccttcta
+    13501 attcctagat tggtgaacag ccacctcact tccagttttt gccggggcct cttttcagtt
+    13561 ctgagcacca gccagagtct aactgaattg gacctcagtg acaattctct gggggaccca
+    13621 gggatgagag tgttgtgtga aacgctccag catcctggct gtaacattcg gagattgtgg
+    13681 tgagtccccg tgcatgtgat ctgtgtgagt gcaagttcat atgagagaga gagagagaaa
+    13741 cagactggag aaagatcttc aggaccaggt tgctggtgtg gtttctttct tttctttttc
+    13801 tttttttctt tttttgaggc agagttttgc tcttattgcc caggctggag tgcaatgccg
+    13861 tgacctcggc tcactgcaat ctctgcctcc tgggttcaag tgattctcct gcctcagcct
+    13921 cctgagtagc tgggattaca ggcacccacc accataccca gctaattttt tgtattttta
+    13981 gtagagatgg ggtttcatca tgttgtccag gctagtctcg aagtcctgac ctcaggtgat
+    14041 ccgcccgcct cggcctccca aaatgctggg attacaggca tgagccaccg cacccggccg
+    14101 gtggtgtggt ttctgctgta acaaagtgcc acagactgaa tggcttcaac aacaaaaatt
+    14161 cattttcttg cagttctgag gccgaaagtc taagatcaag gtgtcagcag ggttggtttc
+    14221 ttctgaggcc gccctccttg gtttgtagat gcccccttct ccctgtgtac tgatgccatc
+    14281 ttgccttggg gggaagagtg gcctagtctc ctcttcttac agggacagca gtcctgatgg
+    14341 attaggcaca gtcaggcatg actacacaag acctaatgtt aatctagtca ctcctttaaa
+    14401 gaccccattt cccaaaacag ccacattatg aggtcttgag gattagggct tcaacatgta
+    14461 aatttttggg ggggcacagt tcagcccaga acaagtgaga aggtagaatg ggttggaggc
+    14521 cagctgggga agttttgtgt ggggaagaat gaatgaggaa ctaaaaaaaa agtcatttct
+    14581 tgaaacaacc atgatgctcg atatattcca tttcctcatg ggccatgttc atagatgaga
+    14641 gttggagaat ttgccattta caacaatggc aacctcacct aaaaactatg aaaatacttt
+    14701 tttttttttt ctttgagaca ggacctctct ctgtcaccca ggctggagtg tgtgatcaca
+    14761 gcttactgca gcctcgacct cccaggctca agcaatcctc ccacctcagc tcccccgagt
+    14821 agctgggact acaggcatgc accaccatgc tggctaattt ttgtattttt tttgtagaga
+    14881 tgtggtctca tcacgttgcc cagcctggtc agaatgcttt gtatgggttg aaatgtcaca
+    14941 gggaatctcc tgtgacttta ttaataatgt gcttgctcac acctgtagtc ccagctactc
+    15001 gggaggctga ggcaggagaa ctgtgtgtac ccgggaggcg gagatggcag tgagccgaga
+    15061 tcgtgccatt gcactccagc ctgggtgaca gagcgagatt ccatttcaaa ataataataa
+    15121 taataataat aataaaaaat gtgcttgctt tctcccacac catgaatcag attcacacgc
+    15181 cccaccgcgc tggtgcctgg gccgcctcac tagctctgtt tcattccctg ctctgtggac
+    15241 gcatgcaggc gtctgcattt ttgaggagct gcacagcaag tgttaaagtc cgccactcta
+    15301 ggacattttg ctacctccct ctccggctca acacactcac cttgtcacca gtcttatcaa
+    15361 tttttcctcc tacccgagct gttttccact tttcctcgtc ctcaccccac cagcccaggt
+    15421 ccagcaactg tcaccacttg cctggacacg cagtgacctc ctagaccatc agctccccgg
+    15481 ggatggggtt tgcgtttgtt tgtcttgctg tcatctttgc cacgcctgga cagacatctt
+    15541 agtacccatc agtggtcaaa agcacgcact gaatgaatgt tggctctttg gtctccctgt
+    15601 gtctgccttt ttccctcacc cgaccattct ctgcacaaaa gtaagatggt cctttagaaa
+    15661 attctgattc gattgtgctg ttcggtggct taaatgcttt ctgtctgctc tgctctttat
+    15721 tttttacttt atgtatttat ttttgtagat gtagggggcg caagagcagc tttgtttcat
+    15781 ggatatgtta ctgcacagtg gtagtgtctg ggcttttact gtaactaccc cttttttttt
+    15841 gagatggact ctcgccgtgt tgcccaggct ggagtacagt ggagtgatct cggctcactg
+    15901 caacatccac ctcctgggtt caagcaattc ttcgagtagt tgggattaca ggcatgggcc
+    15961 accacgccca gctgattttt gtatttttag tagggacaag gtttcaccgt attggctagg
+    16021 ctggtctcaa actcctgacc tcgtgatcca cccgcctcgg cctcccaaag tgctgggatt
+    16081 acaggcgtga gccaccgtgc ccggccttag tgtaactctt acccaaatag tgaacattgt
+    16141 acccaataaa taattttcca gccctcacct ggctcccacc ctcccaccct tctgaggctc
+    16201 tagtgtctat cattccatgc tctatggatg ttaccctttg tttagctccc acttgtaagt
+    16261 gagaacgtgt ggtatttgac tctgtttctg agttgtttca cttaaggtaa tggcctccag
+    16321 ttccatctgt gtggcttcaa agatgtgact tcattctttt ctatggctga gcagtattcc
+    16381 attatgtata tagatcacac tcttcatctt tgctcttttg gtaaatttca aatcgtagtg
+    16441 ccatggagac tggttgtttg ggacatttaa ccttatttct ccaacttcat gcccaaattc
+    16501 tctccccact gccattgccc ctgtatgatt ctggagaggc agacacaaac agggaagggt
+    16561 aggggacagt gagatgcttc gcagagaagt agagatccat ttgtccattt gcttgaagtt
+    16621 ggtgtaagga tagggacaga aaggaaggtg gtctaacagg ctccaggacc tatgaactat
+    16681 tgccctggaa agaagctaga atgttgttct tgcccccatg acagggataa agtatagttt
+    16741 ttgttgctgg tggtggtggt gacggtggta gtgatgtgcg tgtgtgtttg tgtgcatgtg
+    16801 tgtgacgggg aaactaatca agaatcagag ctgcagcggg atgtggaatc ccagcacttt
+    16861 gagaggctga ggtgggcaga tcacctgagc ccaggagttc aaaaccagcc tgagcaagct
+    16921 ggtgagacct tgtctttaga agataataat aataataaaa ataaaatata aataaaataa
+    16981 aatggctaag catggtagca catgcctgta tttgcagcca cttgggaggc tgaggcaggt
+    17041 ggatcccttg agcccaggag ttcgaggtgg cagtgagcta tgatctcgcc agtgcactcc
+    17101 agcctgtgca acaaagtgag accctgtctt taaaaaaaga aaagaaaaga aaagaaaaag
+    17161 aatcagagct gcttttcctt tcaatataga tggagggctg ggatgaaatc gtcaaacaca
+    17221 atggggtgac aatgttggtg aagacaagaa atagctgagt gcagcactgg cgagggcagt
+    17281 gccgactgcg ggcacgtcaa tggttaggaa cacgagggaa ggaggtgggt gcacaggccc
+    17341 acaccgcccg cttcacttac aaaccaggag cgcaccattc acatgtctgg ggggtgatct
+    17401 caatgcaccc ggcactgttt acggccggga gttcactgac aggtgatccc tctgctgtga
+    17461 ctggggagac tgggggctga cctcccaatg tgccttgtgc tgtattccgg agctctctgg
+    17521 tcaggtgtat tctgatgctt tctctattcc agagctctct ggtcaggtgt gtcctgatgc
+    17581 tttctctatt ccagagctct ctggtcaggt gtgtcctgat gctttctcta ttccggagct
+    17641 ctctggtcag gtgtgtcctg atgctttctc tattccggag ctctctggtc aggtgtgtcc
+    17701 tgatgcattc tctattccag agctctctgg tcaggtgtgt cctgatgctt tctctattcc
+    17761 agagctctct tgtcaggtgt gtcctgatgc tttctctatt ctggagctct ctggtcagat
+    17821 gtgttctgat gctttctcta ttccggagct ctctggtcag gtgtgttctg atgctttctg
+    17881 tattccggag ctctctgatc agatgtgttc tgatgctttc tctattccgg agcttcctga
+    17941 tcaggtgtgt cctgatgctt cctctgttct ggagctctct ggtcaggtgt gttctgatgc
+    18001 tttctgcctc tgttcttggc atgaaggttg gggcgctgtg gcctctcgca tgagtgctgc
+    18061 ttcgacatct ccttggtcct cagcagcaac cagaagctgg tggagctgga cctgagtgac
+    18121 aacgccctcg gtgacttcgg aatcagactt ctgtgtgtgg gactgaagca cctgttgtgc
+    18181 aatctgaaga agctctggtg agtcgagccc gttcccctaa ggaagttctg ccagcgaggc
+    18241 gtgctgcgca ctctggcttc agtgaggccc ggtgggctgg ggtttgagtg agaatggcct
+    18301 tggcggctcg ggtgactgcg tgtgcttgtc ttggggtgtc tagcattgcg gtcagtgagt
+    18361 gtttgtcgtg gggaaagcca cacactcaac cctgacaagg agcataaata ataacaaaaa
+    18421 gaagatgtct gcctttaggg tgcctactgc ctagctgaca aaaagaaaaa atcagtgtaa
+    18481 tgcattgctt tagaggagtt ttagaacttc atgacaagcc ctgggtcctc atattgtata
+    18541 agaaaaatgg tgctaaagca atgcagaccc tcgatgttgt atgcagccct tccctgagtg
+    18601 cttctgggag acttgcattt tgaaggagag aaaaaaccac ttaaaaatgg aagggccatt
+    18661 tctcacccat taggatggct attatcaaac aaaagcaaga aaactagaaa acaacaagta
+    18721 ttggtgtggg tgcggagaaa tggaagccat tgtgtgttgc tggtgggaat gtaaatgatg
+    18781 cagccactat ggaaaacagc acagcaattc ctaaaaaata aatacagaat tactactgga
+    18841 gccagcattt ccactgctgg gtatatctgc aaaagagttc aaagcaggaa ctcagccagg
+    18901 agcggtggct cacacctgta atcccagcat tttgggaggc tgaggcaggt ggatcactgg
+    18961 aggtcgggag ttcgagacta gcctggccat catagtaaaa ccttgtctct actaaaaata
+    19021 caaaaattag ccaggcatgg tggtgcatgc ctgtaatccc agttactcgg ggtggaggca
+    19081 agagaatctt ttgaacctgg gaggcggggg ttgcagtgag tcaagatccc gtcactgtac
+    19141 tcccgcctgg gtgacagagg aagcattaaa aaaaacagaa ggcaggaact caaacatgtt
+    19201 atttgtacat ctatgtccat agcaacacta ttagaaatag ccaaaaggtg gaaataacca
+    19261 aacgtccttc aacggatgaa gggtgttgaa aagtgctata tatgtacatt cagctttaaa
+    19321 aagaattcta gtacacacta caacatggat gagcctcggg gacattatgc taagtaagat
+    19381 aagctagact cgaaagggca aatactctga ttgtccttat aggaggtgtc tagaacagac
+    19441 agattcatag agacaggaag aaacgtggtt gcaggcaatg ggagggcgga gagtgggaag
+    19501 acattgttta atggttatgg agtttcagtt ctgcaagatg aaaggagttc tggagatggt
+    19561 ggtggtgatg gttgcacaac aatgtgaagt gcttaaggcc attaattgtg cacttaaaaa
+    19621 tggttaaaat ggtaaatttt attttacacg tattttacca caataaagct gaatgtaggg
+    19681 agctgggaag atgtagtatt ggtgggagct tggagaatgc ttacttgtta ttccaccaaa
+    19741 tggaaaagga aatcagaagt gtacatagag cttgtgtcca ctccctttcc atgtgtaaac
+    19801 tggagtagag gcagtggcag gtacgggtgc ttccttgtcc atggtggagc gtgggtgaga
+    19861 gacatgactg acattctgcc atctctatgg aaggttggtc agctgctgcc tcacatcagc
+    19921 atgttgtcag gatcttgcat cagtattgag caccagccat tccctgacca gactctatgt
+    19981 gggggagaat gccttgggag actcaggagt cgcaatttta tgtgaaaaag ccaagaatcc
+    20041 acagtgtaac ctgcagaaac tggggtaagt cttcatgggt gtcttaccag aaaagtaact
+    20101 tcttttcaga ggtgaattat ttggaaaatg tggatggggg ttactttggt caggcagagc
+    20161 tgaaggtaga gtaaggaggt aaaaacatca gaaatgcttt gaaggactgg aggcatataa
+    20221 tgtatactgc tgctaataag ataatttatg ctaatttatg attatagaac tagagtttct
+    20281 tagtgttgga agaaacctta gagatggtgc agcccaattg cctgttgagg gaaaaacttg
+    20341 cttccaagac actcacatga atagtcaccc attttatgtg tgcatgcttg caagcatgca
+    20401 agttatcgca tagtgcatgc agcctctaca ctaggaaaga gctctcaccc tgcagcctct
+    20461 acactaggag aggactctta cactgcagcc tctatatcct caacagtgtc atggctcagc
+    20521 accttcacct atgtagccat gctctcccag gtacacaggc tggtttgtta gtgtctgtct
+    20581 ttgaaatgtg gtgcccagac ctgatgatgc atggtggatg ttttacctcc tgttgcagag
+    20641 aactatggtt tcactggtgg aatctctgat ttccttgttt tttttggcag ttacataagc
+    20701 cttttgattc atgttggaat tctgcagtaa acagtagtag ggaataccca ctaataatca
+    20761 tgcactttcc ctgtaccact ttcctgtatc actttccctg tatcacctgc tctttcatgt
+    20821 tcttacatgg attttctcag ttggcttcag aaagatgcta tagggtaggg tatctgtgtc
+    20881 tccaatttaa agaggagaaa ataaaattca gggagcctca taactttgtc caaggacact
+    20941 cagagagaag gtagtggaac tcagtgtaga caaacgtctg tgacctccca agccactgcc
+    21001 ttaattccca gtgcattgcc ttaggagatg ttgctaatgg gctctctaca gggcttcttc
+    21061 atctggctct cagcttaagg gtgggacctc caatttagct ttgctaaacc tcatcttacc
+    21121 tgtcttttga cccattgact aggcagtttt gaatcttcat tctgacaata atatctacaa
+    21181 atacaataag caaattggat aggtcttcat tcattcacat tattaatata tataccagcc
+    21241 agatcagcat tcaagacaaa atttggcagg aaaggtcttc ccagaggagt aatccactaa
+    21301 tccataatta acaaccaacc tctgttcaca aagctctgat acttccttgg acctctccca
+    21361 tcagccaatc ctcagatgtg accatatctc tttctatgaa gtcttcctgc agtgccttca
+    21421 tttcctcgcc ttagggtatt acccttcctt agcaaatcgc cttagaatat tactcttcct
+    21481 tggcaatttg acttctgctt ctctaagttt gttcaacaga catgattttg tcccttcatt
+    21541 ttgcaggccc tctgggggct ctgtggtggg cactgacagc agcagtgagt aaaacagacc
+    21601 aaaatcctgt tttcacaacc gttcttttag ggaagtgata acagataata gacatgctaa
+    21661 acaatatacc ctgtgtataa gagctataag aaaaactgga gtgacggcga ggggtgcttc
+    21721 tctgctcacg tttggcgagt gcctctccga gcgggtgaca ttggagcagg tgctcagtga
+    21781 agcgtgggat gggctgtgaa ggagccggaa gagccctcca ggcaaagcag atggaaccga
+    21841 agaggcccag gcgtaggcac tcaggtgact ctcagtgatc ctggttccaa attccacatg
+    21901 acaaacaagc caattacaaa tgtgcctgat gcatctgtaa tatgctctat gtagttacta
+    21961 ttgtcaatac ctaacctggt agagctgctg taataaagta tcacaaacag agcggcctaa
+    22021 acaacaagag tttattgcct ctcagttcag gaggccaaag tctgagactg aggcatcagc
+    22081 aggctgggtc cttataggtc gtacaggtcc ttcccagtcc ttactttagt tgacatctgc
+    22141 tgcctttaat tcatttcact cttcctcttt ggaagccttc ttcgctctta tttttaggtc
+    22201 actacttagt ctttcctgct aatgttatag cttccccctc cctggatcct gcattggctt
+    22261 ctcttcctgt ggtctgggga tttcacgact ggtttagttg tgtttttttt tttttttttt
+    22321 tttttgagtt ggagtcttac tctgtcaccc aggctaaaat gcagtggcgc aatcttggct
+    22381 cactgcaacc tctgcctccc gggttccaac aattcttctg cctcagcctt ctgagtagca
+    22441 gggactacag gtgtgcactg ccatgcctgg ctaatttttg tatttttagt agatacgggg
+    22501 tttcaccatg tttgccaggc tggtctcgaa tttctgacct caggtgatct gcctgccttg
+    22561 gcctcccaaa gtgttgggat tacaggcgtg agccacacac ccgcctggtt tacctttttt
+    22621 gttgttgttg ttactaaata tttctaaact ccctgagaat tctcatatac ctctcaattt
+    22681 caacaacagt aggtctcaaa cccagatatc attcacaaac tttttattag aaaagtaaca
+    22741 catgcttggt gtaaacatat catagtacag acaaagtgga aagtgaaagc tccttctcag
+    22801 ccctcttctg agagagccat ttacaatagt ctgatgaaca accatccaga ctttttttaa
+    22861 tacaatagat tgttatataa tccattcatc tgtccatcca tccatccatc catcatccat
+    22921 ccctctattt tccatccgtc aatccatcca tccatccatc catccatcca tccatccatc
+    22981 catcaatcca tccaagggag tatcagagct ttgtgaacat atattggttg ctaattatgg
+    23041 acaaatggat ttcctgtata tgctgatctg ggtggtattt atatcagtaa tgtgaatgaa
+    23101 gacctatgtg attttcatgt tgcatttgta atacattgtt atgtagtatt ttaaatgcct
+    23161 agtctgttag agctactgta ataaagtatc acaaacagag cagcttaaac aacagaaatt
+    23221 tattgtccct cagttctgga ggccagaagt gtgagattaa gatgctagca ggctgggtcc
+    23281 ttctgagggc tgtggggaat ctgttcatgc ttctctttgg cttctggtgg aatgtcatct
+    23341 tgctgacaca ttttgccatt ccttgacctg tagatgcctc tgccacacca ttgcctttat
+    23401 ctctacgtgg tgtcttccct gtgtctgtgt gtgtctttct ccatgtccca agtttccctg
+    23461 tgaaagaaca caagtcatgt tagatttgta acgacctgat cttaactaat tacattttca
+    23521 gtaaccgtat caccaaataa ggtcacaatc tgaagtactg gggcctagga cttccacata
+    23581 taaagtctta gaggaaacaa ttcaatccat aacaccctat ctattgaaac tagaaccata
+    23641 atataaatat ttttctgtga tatccttttt tcatttatca tggataaatt tccatgctga
+    23701 tttgtgtaga tctatcgatt ggggcataat atcccatagt gtgctttacc ataatttatt
+    23761 taatcaaatc atgcattttg ggataactgt tcttttccac tattacaaac aactctgcaa
+    23821 aaagcacatt tgtatatata gttttatgca tgtgtatttg ctttgagata ggtatctata
+    23881 agtggcatta atcagtcgag acttttatgc attttatgtg ttaggtacag ccatacatgt
+    23941 ggctgtgtgt taggtatagc ctatgggtta ggcatagcct gtgtgttagg tatagcctat
+    24001 gggttaggta tagcctacgt gttaggtata gcctatgtgt taggtatagc ctatgtgtta
+    24061 ggtatagcta catttttttc tctcgaactt tgggtcctca tctctggctg catattgtgt
+    24121 actgcctgtc tcaatactgc tcaagggtca cacatgctga gcatttgcaa cattggttta
+    24181 attatcatac cccaccttcc acccccgttc tctgacctgc tcctgccctc ttcctcctgc
+    24241 ctcattgaat agtggggctt tccaggaggc tgctgagtga gtaaacgggg gacggtccta
+    24301 aatgctctgc tttcggttcc ctctaccact catcactaca ccagagggaa ctttttaaga
+    24361 tgcaaatttg aaaatattga ccctttgttc aaaaatcttc aaaagttctt ctctgcagtc
+    24421 agagtgacat cttagcttgg cacacaaggc tgtccctgat actgccctct ctcctgccat
+    24481 accttgcact ccattttgag tcatattgga tgagttttgt tttgctgttt tagagatggg
+    24541 gacttgctat gatgctcagg ctgaatttga attcctgggt tcatctacag ccataccacc
+    24601 cagagtgcct gatctcatct gcactcctgg gctcaagcaa tcctcccgtc tcagccgccc
+    24661 aagtagctgg gactataggt ggacatcact gtgcccagct atgaattagt tttgaaacat
+    24721 cttggtggtt cttttaatct tccttattct tgctactctt ttccttttgc ctggaaggtt
+    24781 acccccactt tcccactttc tactatccat ctaagaagct cctacttatt ttttaattac
+    24841 tgtgatcctc attttgtcca tttaaaagca gggataaaac taacattccc atcttgaggt
+    24901 tgtgatcatt caatgagata accctgttta aagtcgtcat ccatgtcaag cacacaataa
+    24961 atactcaaaa aatgtttgat cttcttcttc agattccttc cttccttcct tccttcttcc
+    25021 tcctcctcct ttctttctct ctttttcttt ttctctttct ttctttcttt ctctctctct
+    25081 ctctttcttt ctttctcttt ctcccttccc ttcccctccc cccccccttt ccctttcccc
+    25141 tttcctttcc ttattttcct ttcttttctt ttcttttttt aagacagggt tttgctctgt
+    25201 ggctcagact ggagtgcagt ggtaggatca tagctcactg tagccttgaa ctctcctggg
+    25261 ctcaagcaat cttcctgcct cagccttctg actagctagg actacaggtg tgtactacca
+    25321 tgcctgggta atgtttaaaa tgtttaaaat tttttatgta gagacagggt cttgctatgt
+    25381 tgcccaggct ggtctcaaac tcctggcctc aagtggtcct cccaccttgg cctcccaaag
+    25441 cactgggatt cagttttcat tatgagacag ttttgtgaca taggcaggta gttaataaat
+    25501 aaaaatcccc aaccaattaa cttaatacag tacatggcaa gatatccgtg cttggtaaat
+    25561 gtagagctca gttaggtgga ttggttgaaa tcgagatgtc aatcacattc ctctaatcca
+    25621 aggattggtt ggtgggacat ggttgtttga ttctttaaac attttattat gtgttcagtg
+    25681 taaccgttgc ttaatagtta ccagcatttt cacaatttgg atatgacgtt ttcttaacaa
+    25741 aactgcaccg tctgttgcaa tttctactac tactgtgtag tgctccccaa acatctgttg
+    25801 aataatccat tctactcctt tttggaaata gtggtaaagc ctgcataact ttaattacat
+    25861 aatttaaaaa atattttctc ttttcctctt tgaagaccat ccccattcta ctagaatgtc
+    25921 cctggccttt gccaggaatg ctactaatcc cttctgcatg ttaattaaca acaaccctct
+    25981 gatagaattc ttaccgggga tgagagctta gtagaagcca ctcaaaactt gctttgtttt
+    26041 tgtctgtctc tcttgggctt catttgccta ttagtcttac ttactgtgtc ttttcagttt
+    26101 gactcttcct taattgggaa gatagaaacc agtggatgga taatcacttt ttcctgctgg
+    26161 tcatctgttc atgctttact gtctgaatac actttttctg tatttctatt tttcctgcct
+    26221 cgtagacacc aaagagctta aaaaacatgc cattgccaag gactctggca ggaaggaggc
+    26281 aatcacctgc gctattcctg gcttcatgga atagaagcat ctgtgctcct aggaattacg
+    26341 ccaccagtga ttttagagct cttatgctct tcctgggtga tagaatgggc ttaatttgac
+    26401 tcaagaatag tacatcaaaa ctcttaattc catcgagatt gatgcatttt tggggtttta
+    26461 tgctctaaaa ggccttttgc tgtgcagaag gaagagagag gtggacagaa agggcagtgg
+    26521 ggagaagatg agactaaaag gtggaaagtc caggtctgga tccctcccca ccacacacct
+    26581 gctctgtggc cttgagagaa acatgtaatt tttataagcc ttagatttct aatatgtaaa
+    26641 atgtatgtaa tagttttagc tgcactcctt ccttgccagg ttgatataat aatcaaataa
+    26701 gactggtctc tgggtcaggc acagtggctc atgcctgtaa tcccagcact ttgggaggcc
+    26761 aaggtgggtg gattgtctga gcccaggagt ttaagactgc agtgagctgt gcacttggcc
+    26821 tgggtgactg agcaagagcc tggctttttc tatttattta tttatttttg agacagagtc
+    26881 tcactttgtt gcccaggttg aagtgcagtg gcaatctcgg ctcactgcaa cctctgcctc
+    26941 ccaggttcaa gcaattctcc tgcctcagcc tcccaagtag ctgggattac aggtgcccac
+    27001 caccacccta actaattttt atatttttag tagagatggg ctttcaccat gttggccagg
+    27061 ctggttttga actcctgacc tcgtgatcca ccctcccaaa gtgctggacc tcccaaagtg
+    27121 ctgggattac aggcataagc cactgcacct ggccttattt atttatttat ttaggcaggg
+    27181 tctcactctg tcacccaggc tagagtgtgg cagcgcaatc atggctcact gcagcctcga
+    27241 cttcctggac tcaagcgatc ctcccacctc tccaacgtgg ttgagggctg cagcgagaaa
+    27301 gatgtgaaag gggcatttgg gggcgcagga aggcgggagg tggcaattgc taagggcccc
+    27361 gccgtgttcc tgtcacagcc ctagctacag cttagaaggt cacaatggac gttcacctgt
+    27421 tgtctttgat gtttaaatca gcaccgactt cccatgagga ggattttttt ttcctgtctc
+    27481 tcttaaaaaa aaaaaaaaag gcccctgcag tgtgggtgtc tgcagtgtta cggggattat
+    27541 tagttgagga taaccactgg gatgtgtttc tggaagaagt ggtgctgagg agcactcctg
+    27601 gccggaggaa agctgtgtga ggaggaggag gagtatgggg taactggctc agtttgcctt
+    27661 ggctctttct gtcggactca tacagcaaag catctgctga gacatcattt gtgtctcctg
+    27721 tgacagccag agacagcagg tcttgctctc cccagatcat atctgagatg ctggctcctg
+    27781 ctctctgagc tgaaggctgc agctgctgag agaggacgag gcactgagtc aaagcagctg
+    27841 cacaatgttg gggaacagct gggtactgag gactcttctc cctgtccttc tacaggttgg
+    27901 tgaattctgg ccttacgtca gtctgttgtt cagctttgtc ctcggtactc agcactaatc
+    27961 agaatctcac gcacctttac ctgcgaggca acactctcgg agacaagggg atcaaactac
+    28021 tctgtgaggg actcttgcac cccgactgca agcttcaggt gttggagtaa gtcctttggt
+    28081 ttattacagc aatgagaaca catggtggcc aagggtggag ggacgtttag gcagagtggc
+    28141 cacaagataa tctgtatctt agaagtgagg tgtcttctta gtgtttgcct tgttacagga
+    28201 tcatgggact gggaggagtc cttccagatg atatagatgt aggaacttga gtccttacca
+    28261 tcacagtttt ctgtaccaca aaacaaggag ggcagtatga cacttacatt ttatggaaat
+    28321 gtagggaaag gcacagaatt tggtaaatca atgaacaaac cactgttact aatttgatct
+    28381 gtgcaatgca gtggatttga aaaagagaga gaagaataat taccagcata caaggctgct
+    28441 tgaagctagt tagtcctgtg ctcctgtgct tttttttttt ccacctgaaa caagacaggc
+    28501 taagatgcta aaatcttggg gagctagggg gatggttaag gggacatttt ctttaaatca
+    28561 cccccttttt gcagattaga caactgcaac ctcacgtcac actgctgctg ggatctttcc
+    28621 acacttctga cctccagcca gagcctgcga aagctgagcc tgggcaacaa tgacctgggc
+    28681 gacctggggg tcatgatgtt ctgtgaagtg ctgaaacagc agagctgcct cctgcagaac
+    28741 ctggggtgag tgtgctctgc agagatgccc gtggtgggac tctgagttct caggaaacgt
+    28801 tgactgttat caaaatccag gatggctctc gcttcatttg cagccactca agattaggtt
+    28861 gggcctgggt cagttgtggt ggatatttta aaatagagaa tatggggtta aactacacat
+    28921 tccacttcac tgagatggtt agaatcacca aggctaagct ggatttcacc cacattcccc
+    28981 aaagaaacac aagccctcat gcgatcatgg ccaaggagga ttctgttcta cacaaggaac
+    29041 cgaacttcgt agaactcgtc tatgggtcat ccaaattgga agggtcttta catagtgggg
+    29101 atcttgttgt tttgtttctg aggatttatt ttttttttcc ttgagacaga gtcttgctct
+    29161 gtcgcccagg ctggagtgca gtggcatgat ctcggctcac tgcaagctcc gcctcccggg
+    29221 ttcacgccat tctcctgcct cggcctccca agtagctggg accacaggcg cctgccacca
+    29281 cacccggcta attttttgta tttttagtag agttggggtt tcactgtgtt agccaggatg
+    29341 gtctccatct cctgacctcg tgatctgcct gcctcggcct ccccaagtgc tgggattaca
+    29401 ggtgtgagcc tccgtgcctg gcggtttctg aggatttcta aatgggaaaa gagtgctcca
+    29461 ggaatagcaa gatgggaaat tacacgaaat tcgacagtgt gtcaggatat tgccagccca
+    29521 cctctgtgat actactgagg tagtcgtctc ctctctagca agagcttcct ggcgagtccc
+    29581 acggttctgt cagccgtgat gattgcactt ttccctgaag acgttttcac tgcttggctt
+    29641 taaggccaac atgctctcct gggttttctc ctatttcatc agatccttct actcagtctc
+    29701 ctttctggcc tcttcttcat catcctgacc cttatgtgtt gaatcctcag agcttagtcg
+    29761 ctgggctaat ttttcttccc tacactttct ccctcattta aattatctgg tcttctggct
+    29821 tcatgatatg tgtgctgtgg cctccagatt atatgtccat aaattctgtg tctccgtgct
+    29881 tggctgatct ttcttcttga aggtttaata aacctctcaa acgtcacatc tagatccaca
+    29941 cccttgctac tctcttctac ccgaaacctg attcttcccc atttcagtcg atggtcactt
+    30001 cctccaagtt gctcgggcca aaacatttct ggttctgtcg tcactgtctc tttttcctta
+    30061 taatcatgtc caatgtgtca gcacatcctg tgagctctgc cttcccagct tggccactcc
+    30121 ctgaccactt caggccagct tcacggcttc ttccttggct caagccacca tcacctggtg
+    30181 tctggattgt catggtggca ttctgacagg tcaccctgca tctgttattc tgattttagc
+    30241 agacaaggga ttcagctaaa acgtaactcg catcatatca ctcttgtcaa catcgtcttc
+    30301 ttatcacttt cataatcaga gcaacaaact catggtggct tccatgcccc acataatcca
+    30361 gcctctcctg cttccgaaga ttccgcttct cccaaccctt gcttattctg ccccagtaca
+    30421 gtgatctcct tgctgttttg caagaacact gtcatctctg gatttttgca cttgcttttc
+    30481 ttctggccta gaactctctc cccttcagta tccacctgca ttattccctg taccttccta
+    30541 aattctctgc ttaaaggtct tctctgcgag gctgtctttg actattctac tgaaaataga
+    30601 agcacttttt cttctcttct cattctcctc tgcagtgtag cacatcttat gtgctatgtc
+    30661 attttcttgt ttatttatta tctatctctg ctcccaaaat ataaattcca ttagtccagg
+    30721 gacttctgtc catattaatg atctcaaggc tgagaacttg ttggaatgca ggtttgaata
+    30781 aatacaagtt tgaatcagcc ttgcatcctt gtgccaacat aatggagcac atttgctgca
+    30841 ggacaagcca atattcccag agctaagaga gatgggggaa caaacaaagg attggtcagg
+    30901 tcaaagctgg ggacactgct acatgtagca tcactgacct agccctgagg gacattctgg
+    30961 acccaggctg agggacaggc tcaaaataga ttgaagaatc catgaatgca atcaacccgt
+    31021 tttctcaggc tgcgataaca agctgcttta gactgtgtga ctcaaacaca gatttattat
+    31081 ctcacaatac tggaggctag aaagtccaaa atcaagtctc tgatgaattt ggttgctggc
+    31141 gagagtcctc ttcctgattt gcagatggct accttcttgt tatgtgattg catggaggga
+    31201 ggggaggcaa gggagagaag acaggggaga aagaacaaac tctctgatat ctctcctgta
+    31261 agggcactca ccccatactg agggccccac cctcacaact tcatctaact ctaactactt
+    31321 cccaagggcc tcacctttaa gtaccgtaca ttaggggttc gggcttcatc atgggaattg
+    31381 ttaaggaaga caaacattca gtatataaca ccaccaaatt gagatggtta taaatggtgc
+    31441 aggacaaatg ggtggattta ttagttaagt tgcaagggaa actttattaa agaggaggaa
+    31501 gaacttacat cgaagatgtg agaggcatcc tgggcaaatg caatgtgtag aattgatcag
+    31561 gttagtgact aaatgaacat aaggtaaaaa aatttacaag acagttgagg aagcgtaaat
+    31621 gctgactgga catacagtga tactaagaaa ttattgttaa acgattttgg tgtgatagtg
+    31681 acattgtaat tatattttag tgtcacaaag tgaattattg atagatgcat taaatgcagt
+    31741 atttaaaata atccatgggt gggaggagtg ggtgggcaat agaagaaaca agttgacatg
+    31801 acctgtttaa ttgtcgaact tgggtaatgg acacaggggg ttcattatac tattttctat
+    31861 acttttatgt atgcttaaca ttttcccaac tagatagtta aaaatataac aggaaccaca
+    31921 ttgggcactt agagcttttt tttttttttc cccacatttt tattgggagc cgtgggaggg
+    31981 gcctcctctg tcattggagg tgctcacagt ttcttcagcc actccaggct ggggtcctgg
+    32041 gggtctgagg ctcccagtga cgaaggacac gacgagcacc ggctccttgg cccaggcatt
+    32101 cttgaagaag gtgcggagtc tcgcggccat cttggtctcg gcggcggcga cggcggcgag
+    32161 gacgcggagc actctgggag ttgtggtccc tctttttttt tttttttttt ttttacattt
+    32221 tagaagtgtg tggagtttag ggaaatgaag agatgagact tttaaggtta acgactctga
+    32281 cagagttatc tgaagagtgc aacccaggct ttctatttgc ttttacaggt tgtctgaaat
+    32341 gtatttcaat tatgagacaa aaagtgcgtt agaaacactt caagaagaaa agcctgagct
+    32401 gaccgtcgtc tttgagcctt cttggtagga gtggaaacgg ggctgccaga cgccagtgtt
+    32461 ctccggtccc tccagctggg ggccctcagg tggagagagc tgcgatccat ccaggccaag
+    32521 accacagctc tgtgatcctt ccggtggagt gtcggagaag agagcttgcc gacgatgcct
+    32581 tcctgtgcag agcttgggca tctcctttac gccagggtga ggaagacacc aggacaatga
+    32641 cagcatcggg tgttgttgtc atcacagcgc ctcagttaga ggatgttcct cttggtgacc
+    32701 tcatgtaatt agctcattca ataaagcact ttctttattt t
+//
+

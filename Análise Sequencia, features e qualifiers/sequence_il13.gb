@@ -1,0 +1,367 @@
+LOCUS       NC_000005               4589 bp    DNA     linear   CON 07-OCT-2023
+DEFINITION  Homo sapiens chromosome 5, GRCh38.p14 Primary Assembly.
+ACCESSION   NC_000005 REGION: 132656522..132661110
+VERSION     NC_000005.10
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.40
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4589)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   2  (bases 1 to 4589)
+  AUTHORS   Schmutz,J., Martin,J., Terry,A., Couronne,O., Grimwood,J.,
+            Lowry,S., Gordon,L.A., Scott,D., Xie,G., Huang,W., Hellsten,U.,
+            Tran-Gyamfi,M., She,X., Prabhakar,S., Aerts,A., Altherr,M.,
+            Bajorek,E., Black,S., Branscomb,E., Caoile,C., Challacombe,J.F.,
+            Chan,Y.M., Denys,M., Detter,J.C., Escobar,J., Flowers,D.,
+            Fotopulos,D., Glavina,T., Gomez,M., Gonzales,E., Goodstein,D.,
+            Grigoriev,I., Groza,M., Hammon,N., Hawkins,T., Haydu,L., Israni,S.,
+            Jett,J., Kadner,K., Kimball,H., Kobayashi,A., Lopez,F., Lou,Y.,
+            Martinez,D., Medina,C., Morgan,J., Nandkeshwar,R., Noonan,J.P.,
+            Pitluck,S., Pollard,M., Predki,P., Priest,J., Ramirez,L.,
+            Retterer,J., Rodriguez,A., Rogers,S., Salamov,A., Salazar,A.,
+            Thayer,N., Tice,H., Tsai,M., Ustaszewska,A., Vo,N., Wheeler,J.,
+            Wu,K., Yang,J., Dickson,M., Cheng,J.F., Eichler,E.E., Olsen,A.,
+            Pennacchio,L.A., Rokhsar,D.S., Richardson,P., Lucas,S.M.,
+            Myers,R.M. and Rubin,E.M.
+  TITLE     The DNA sequence and comparative analysis of human chromosome 5
+  JOURNAL   Nature 431 (7006), 268-274 (2004)
+   PUBMED   15372022
+REFERENCE   3  (bases 1 to 4589)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000667.2.
+            
+            On Feb 3, 2014 this sequence version replaced NC_000005.9.
+            Assembly Name: GRCh38.p14 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001405.40-RS_2023_10
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.2
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           RefSeqFE; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 10/02/2023
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..4589
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="5"
+     misc_feature    <1..146
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 16329"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129994591"
+     regulatory      <1..146
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_16329"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:129994591"
+     gene            1..4589
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /note="interleukin 13; Derived by automated computational
+                     analysis using gene prediction method: BestRefSeq."
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+     mRNA            join(1..109,545..723,1769..1839,2897..2950,3203..3307,
+                     3654..4589)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /product="interleukin 13, transcript variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001354992.2"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+     mRNA            join(1..109,545..723,2897..2950,3203..3307,3654..4589)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /product="interleukin 13, transcript variant 4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001354993.2"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+     mRNA            join(1..109,1769..1839,2897..2950,3203..3307,3654..4589)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /product="interleukin 13, transcript variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001354991.2"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+     misc_feature    207..296
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 16330"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129994592"
+     regulatory      207..296
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_16330"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:129994592"
+     misc_feature    377..436
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 16331"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129994593"
+     regulatory      377..436
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_16331"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:129994593"
+     mRNA            join(1652..1839,2897..2950,3203..3307,3654..4589)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /product="interleukin 13, transcript variant 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_002188.3"
+                     /db_xref="Ensembl:ENST00000304506.7"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+     CDS             join(1666..1839,2897..2950,3203..3307,3654..3761)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /note="isoform 1 precursor is encoded by transcript
+                     variant 1; Derived by automated computational analysis
+                     using gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="interleukin-13 isoform 1 precursor"
+                     /protein_id="NP_002179.2"
+                     /db_xref="CCDS:CCDS4157.1"
+                     /db_xref="Ensembl:ENSP00000304915.3"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+                     /translation="MHPLLNPLLLALGLMALLLTTVIALTCLGGFASPGPVPPSTALR
+                     ELIEELVNITQNQKAPLCNGSMVWSINLTAGMYCAALESLINVSGCSAIEKTQRMLSG
+                     FCPHKVSAGQFSSLHVRDTKIEVAQFVKDLLLHLKKLFREGQFN"
+     sig_peptide     1666..1725
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+     mat_peptide     join(1726..1839,2897..2950,3203..3307,3654..3716)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /product="interleukin-13 isoform 1"
+     CDS             join(2918..2950,3203..3307,3654..3761)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /note="isoform b is encoded by transcript variant 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="interleukin-13 isoform b"
+                     /protein_id="NP_001341922.1"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+                     /translation="MVWSINLTAGMYCAALESLINVSGCSAIEKTQRMLSGFCPHKVS
+                     AGQFSSLHVRDTKIEVAQFVKDLLLHLKKLFREGQFN"
+     CDS             join(2918..2950,3203..3307,3654..3761)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /note="isoform b is encoded by transcript variant 3;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="interleukin-13 isoform b"
+                     /protein_id="NP_001341921.1"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+                     /translation="MVWSINLTAGMYCAALESLINVSGCSAIEKTQRMLSGFCPHKVS
+                     AGQFSSLHVRDTKIEVAQFVKDLLLHLKKLFREGQFN"
+     CDS             join(2918..2950,3203..3307,3654..3761)
+                     /gene="IL13"
+                     /gene_synonym="IL-13; P600"
+                     /note="isoform b is encoded by transcript variant 2;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="interleukin-13 isoform b"
+                     /protein_id="NP_001341920.1"
+                     /db_xref="GeneID:3596"
+                     /db_xref="HGNC:HGNC:5973"
+                     /db_xref="MIM:147683"
+                     /translation="MVWSINLTAGMYCAALESLINVSGCSAIEKTQRMLSGFCPHKVS
+                     AGQFSSLHVRDTKIEVAQFVKDLLLHLKKLFREGQFN"
+ORIGIN      
+        1 acgcgcgggg gcgcccctgc ccaccgctcc cggcagggct tttggtggcc atgggggata
+       61 aggggcgttg actcacccgg gcggggctcc gggagttgca cagaccaagg tagttccccg
+      121 ctccttcccc catcacggag accctgtggg agatgccgtg ggccctctac tacagattag
+      181 gaaacaggcc cgtagagggg tcacacggcc aagtagcggc actccaggca ctgggggccc
+      241 tcgaggggaa ggggcagact tctgggagtc agagccagca gctgggctgg gaagcttcga
+      301 gtgtggacag agagggtggg aatgacgttc cctgtgggaa gagagggtgg gcaagcctgg
+      361 gatgcctctg agcgggaatc cagcatgcct tgtgaggagg gtcacaagca cacccttgtg
+      421 aggaggttga gccccatcga ggacaggacg gagggagcct gagcaggcag agagggggcc
+      481 tggggaggcg ctggttcggg gaggaagtgg gtaggggaga aatcttgaca tcaacaccca
+      541 acaggcaaat gccgtggcct ctgctgtggg ggtttctgga ggacttctag gaaaacgagg
+      601 gaagagcagg aaaaggcgac atggctgcag gggccaagcc caggagccgc cctccacagc
+      661 actcattctg cagaagggaa atttgaggcc cccagacggc aggggttgat cctgcagaga
+      721 ctggtgagca aaggggatca ccccaagccc cagtggcact aggaacactt acaatctctg
+      781 acctggacta aggctgccag cctggcccag ttaagagttt cccagaagga tggcccatac
+      841 actttaaatt aaaggggcca gacacgtgca cactacttcc agccactctg gaagctgagg
+      901 tggggggatc gcttgagtct gggagttgga ggccagccta ggcaggcaac atagtgagac
+      961 cccatctcca aaaaaacaaa acaaaacaaa acaaaaaaac accaaaaaag ctcccagaaa
+     1021 gacctctgaa tctttctgga tctctcagtg gagacctgga aatctgaact ttgacaatcc
+     1081 ctctcacagt ggggccaagg aggaattagg caagccaaaa gaagtgaact ttactcttct
+     1141 attgcctgtt tgaattttgt atccaagcaa gtgttactta agtaatttaa gagactggtt
+     1201 catcgaaaaa ataaaactcc ccaaattccc atagctggta gactgtggtc acagccacag
+     1261 tgcactaaga ctatctgctc agcacttctg gtgacccaaa agggtctgag gacaggagct
+     1321 cagagttggg tcagctgtcc aggtactcag ggttgtcaca ggcaaaactg ctggaactca
+     1381 gggcagcatt gcaaatgcca cgccgctctc agggcccctt gcctgccgct ggaattaaac
+     1441 ccacccagat cttggaaact ctgccctgga cccttctcaa taagtccatg agaaatcaaa
+     1501 ctctttcctt tatgcgacac tggattttcc acaaagtaaa atcaagatga gtaaagatgt
+     1561 ggtttctaga tagtgcctga aaaagcagag accatggtgt caggcgtcac cacttgggcc
+     1621 tataaaagct gccacaagac gccaaggcca caagccaccc agcctatgca tccgctcctc
+     1681 aatcctctcc tgttggcact gggcctcatg gcgcttttgt tgaccacggt cattgctctc
+     1741 acttgccttg gcggctttgc ctccccaggc cctgtgcctc cctctacagc cctcagggag
+     1801 ctcattgagg agctggtcaa catcacccag aaccagaagg tgagtgtcgg ctagccaggg
+     1861 tcctagctat gagggctcca gggtgggtga ttcccaagat gaggtcatga gcaggctggg
+     1921 cctggtccta agatgcctgt aggtcaggaa aaatctccat ggaccaaggc ccggcccagc
+     1981 catgagggag agaggagctg ggctgggggg ctcagcactg tggatggacc tatggaggtg
+     2041 tctggcagac tccccaggga ctacctgctc tcctggcctg gccttgtctg ccactgccag
+     2101 ctcctactca gccattcctg aacagaggac agcagagaag ggccagcacc ctcccagaac
+     2161 catgtggcat ttgccaactg gattttgacc ataacaatgc agccattctc cccagcacca
+     2221 tcataggccc gcccttacag gaggattcct tagtagagtc cgctccttgc cccactagta
+     2281 acagctcaca tgtctgagca ctgcttacac caggcctggt gcacgtgctt tatgtgtcat
+     2341 ttcatcactg ccagccacct caagaggcag gtacgatgaa cccattctgc taaggttcag
+     2401 tgaggttaag tgacagaggc tggattcaag ccaggcctgg ccaacaccag agtgtccatg
+     2461 ctcctaactg cagtgttccc tcaccatcag aaggcagggc atttaataca ccagatcccc
+     2521 accgcctccc atctgatttg tcttggtcaa cagtggccca ggccactcct acttcactcg
+     2581 tccccaccct ggcccttccc gcaggcccct gtcctcctgc cctgactatg gcaagccttg
+     2641 catgcagctt gtcccttact agtggtgtca atttttttct ctcagctcca agaccctaaa
+     2701 cagtgggacc tcacccctat gcctgctgtt caaagcagaa aacgaagctc aggaatgctg
+     2761 aggggctgcc aggcctgcct ctgtgccaca ccagggatgc ttgtggggcc tgtgctgggg
+     2821 cagacctggc ctgggctgcc agggcaggcc cacaacccct gccagcactc tgctcactgt
+     2881 cactttgctc ccacaggctc cgctctgcaa tggcagcatg gtatggagca tcaacctgac
+     2941 agctggcatg gtaaggacct ttgggtgcag ggaggatggg gcagaggctc caggccttgg
+     3001 gcttatcttc tctgagcctc ccttccatgg ctggggttcc aagcaagctt caagtgctct
+     3061 cctccctccc gccataatct ggccccttcc cgcccaccac ccagactcac ctgcgccagg
+     3121 catctcagcc ccatcttcct gcagactcac aaaaggcagc tgcccaagca gggcctgacc
+     3181 cctcggtgtc ccctccccac agtactgtgc agccctggaa tccctgatca acgtgtcagg
+     3241 ctgcagtgcc atcgagaaga cccagaggat gctgagcgga ttctgcccgc acaaggtctc
+     3301 agctggggta aggcatcccc caccctctca cacccaccct gcaccccctc ctgccaaccc
+     3361 tgggctcgct gaagggaagc tggctgaata tccatggtgt gtgtccaccc aggggtgggg
+     3421 ccattgtggc agcagggacg tggccttcgg gatttacagg atctgggctc aagggctcct
+     3481 aactcctacc tgggcctcaa tttccacatc tgtacagtag aggtactaac agtacccacc
+     3541 tcatggggac ttccgtgagg actgaatgag acagtccctg gaaagcccct ggtttgtgcg
+     3601 agtcgtcccg gcctctggcg ttctactcat gtgctgacct ctttgtcctg cagcagtttt
+     3661 ccagcttgca tgtccgagac accaaaatcg aggtggccca gtttgtaaag gacctgctct
+     3721 tacatttaaa gaaacttttt cgcgagggac agttcaactg aaacttcgaa agcatcatta
+     3781 tttgcagaga caggacctga ctattgaagt tgcagattca tttttctttc tgatgtcaaa
+     3841 aatgtcttgg gtaggcggga aggagggtta gggaggggta aaattcctta gcttagacct
+     3901 cagcctgtgc tgcccgtctt cagcctagcc gacctcagcc ttccccttgc ccagggctca
+     3961 gcctggtggg cctcctctgt ccagggccct gagctcggtg gacccaggga tgacatgtcc
+     4021 ctacacccct cccctgccct agagcacact gtagcattac agtgggtgcc ccccttgcca
+     4081 gacatgtggt gggacaggga cccacttcac acacaggcaa ctgaggcaga cagcagctca
+     4141 ggcacacttc ttcttggtct tatttattat tgtgtgttat ttaaatgagt gtgtttgtca
+     4201 ccgttgggga ttggggaaga ctgtggctgc tagcacttgg agccaagggt tcagagactc
+     4261 agggccccag cactaaagca gtggacacca ggagtccctg gtaataagta ctgtgtacag
+     4321 aattctgcta cctcactggg gtcctggggc ctcggagcct catccgaggc agggtcagga
+     4381 gaggggcaga acagccgctc ctgtctgcca gccagcagcc agctctcagc caacgagtaa
+     4441 tttattgttt ttccttgtat ttaaatatta aatatgttag caaagagtta atatatagaa
+     4501 gggtaccttg aacactgggg gaggggacat tgaacaagtt gtttcattga ctatcaaact
+     4561 gaagccagaa ataaagttgg tgacagata
+//
+

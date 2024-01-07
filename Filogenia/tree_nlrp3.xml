@@ -1,0 +1,44 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner4</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>sp|Q96P20-6|NLRP3_HUMAN</name>
+        <branch_length>0.017495173745173773</branch_length>
+      </clade>
+      <clade>
+        <name>Inner3</name>
+        <branch_length>0.024734555984555956</branch_length>
+        <clade>
+          <name>sp|Q96P20-4|NLRP3_HUMAN</name>
+          <branch_length>0.029802123552123555</branch_length>
+        </clade>
+        <clade>
+          <name>Inner2</name>
+          <branch_length>0.025217181467181465</branch_length>
+          <clade>
+            <name>Inner1</name>
+            <branch_length>0.03330115830115832</branch_length>
+            <clade>
+              <name>sp|Q96P20-3|NLRP3_HUMAN</name>
+              <branch_length>0.19111969111969118</branch_length>
+            </clade>
+            <clade>
+              <name>sp|Q96P20-2|NLRP3_HUMAN</name>
+              <branch_length>0.004826254826254761</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>sp|Q96P20-5|NLRP3_HUMAN</name>
+            <branch_length>0.021718146718146703</branch_length>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>sp|Q96P20|NLRP3_HUMAN</name>
+        <branch_length>0.0027750965250965126</branch_length>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
